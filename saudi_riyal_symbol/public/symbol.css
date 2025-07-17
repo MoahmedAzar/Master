@@ -1,5 +1,5 @@
-.saudi-riyal-symbol {
+.icon-saudi_riyal:before {
+    content: "\066E";
     font-family: Arial, sans-serif;
-    font-weight: bold;
-    font-size: 1rem;
+    font-size: 16px;
 }

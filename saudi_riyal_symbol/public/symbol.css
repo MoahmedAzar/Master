@@ -1,5 +1,5 @@
 .icon-saudi_riyal:before {
-    content: "\066E";
+    content: "\066E"; /* Unicode for  */
     font-family: Arial, sans-serif;
     font-size: 16px;
 }
